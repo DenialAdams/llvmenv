@@ -10,6 +10,7 @@ extern crate dirs;
 extern crate glob;
 extern crate itertools;
 extern crate reqwest;
+extern crate tempdir;
 extern crate tempfile;
 extern crate url;
 
